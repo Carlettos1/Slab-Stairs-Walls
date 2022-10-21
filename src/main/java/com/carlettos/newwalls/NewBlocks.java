@@ -18,6 +18,7 @@ import net.minecraft.util.Pair;
 import net.minecraft.util.registry.Registry;
 
 public class NewBlocks {
+
     private static final LinkedList<Pair<Block, String>> BLOCKS = new LinkedList<>();
     
     public static final Logger LOGGER = LoggerFactory.getLogger("block_creation");
@@ -98,6 +99,12 @@ public class NewBlocks {
     public static final Block SMOOTH_BASALT_SLAB = createSlab(Blocks.SMOOTH_BASALT);
     public static final Block SMOOTH_BASALT_STAIRS = createStairs(Blocks.SMOOTH_BASALT);
     public static final Block SMOOTH_BASALT_WALL = createWall(Blocks.SMOOTH_BASALT);
+    
+    public static final Block SCULK_STAIRS = createStairs(Blocks.SCULK);
+    public static final Block SCULK_SLAB = createSlab(Blocks.SCULK);
+    public static final Block SCULK_WALL = createWall(Blocks.SCULK);
+    public static final Block SCULK_FENCE = createFence(Blocks.SCULK);
+    public static final Block SCULK_FENCE_GATE = createFenceGate(Blocks.SCULK);
     
     public static final Block createBlock(Block parent, String type) {
         Block block = new Block(Settings.copy(parent));

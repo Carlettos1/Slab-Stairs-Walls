@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_sculk_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:sculk"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:sculk_stairs_crafting.json",
+      "newwalls:sculk_stairs_stonecutting.json",
+      "newwalls:sculk_slab_crafting.json",
+      "newwalls:sculk_slab_stonecutting.json",
+      "newwalls:sculk_wall_crafting.json",
+      "newwalls:sculk_wall_stonecutting.json",
+      "newwalls:sculk_fence_crafting.json",
+      "newwalls:sculk_fence_stonecutting.json",
+      "newwalls:sculk_fence_gate_crafting.json",
+      "newwalls:sculk_fence_gate_stonecutting.json"
+    ]
+  }
+}

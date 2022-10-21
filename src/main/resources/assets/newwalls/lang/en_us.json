@@ -1,4 +1,9 @@
 {
+    "block.newwalls.sculk_stairs": "Sculk Stairs",
+    "block.newwalls.sculk_slab": "Sculk Slab",
+    "block.newwalls.sculk_wall": "Sculk Wall",
+    "block.newwalls.sculk_fence": "Sculk Fence",
+    "block.newwalls.sculk_fence_gate": "Sculk Fence Gate",
     "block.newwalls.calcite_slab": "Calcite Slab",
     "block.newwalls.calcite_stairs": "Calcite Stairs",
     "block.newwalls.calcite_wall": "Calcite Wall",
@@ -61,8 +66,5 @@
     "block.newwalls.stone_wall": "Stone Wall",
     "block.newwalls.tuff_slab": "Tuff Slab",
     "block.newwalls.tuff_stairs": "Tuff Stairs",
-    "block.newwalls.tuff_wall": "Tuff Wall",
-    "itemGroup.new_slabs": "New Slabs",
-    "itemGroup.new_stairs": "New Stairs",
-    "itemGroup.new_walls": "New Walls"
+    "block.newwalls.tuff_wall": "Tuff Wall"
 }

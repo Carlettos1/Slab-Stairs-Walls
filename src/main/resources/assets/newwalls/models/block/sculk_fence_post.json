@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "minecraft:block/sculk",
+    "particle": "minecraft:block/sculk"
+  }
+}

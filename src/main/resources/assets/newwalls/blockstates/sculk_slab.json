@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newwalls:block/sculk_slab"
+    },
+    "type=top": {
+      "model": "newwalls:block/sculk_slab_top"
+    },
+    "type=double": {
+      "model": "newwalls:block/sculk_slab_full"
+    }
+  }
+}

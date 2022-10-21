@@ -26,6 +26,7 @@
     "newwalls:cracked_deepslate_tile_wall",
     "newwalls:tuff_wall",
     "newwalls:calcite_wall",
-    "newwalls:smooth_basalt_wall"
+    "newwalls:smooth_basalt_wall",
+    "newwalls:sculk_wall"
   ]
 }

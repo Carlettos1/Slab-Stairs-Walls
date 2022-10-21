@@ -3,6 +3,7 @@
   "values": [
     "newwalls:cracked_nether_brick_fence",
     "newwalls:red_nether_brick_fence",
-    "newwalls:quartz_brick_fence"
+    "newwalls:quartz_brick_fence",
+    "newwalls:sculk_fence"
   ]
 }

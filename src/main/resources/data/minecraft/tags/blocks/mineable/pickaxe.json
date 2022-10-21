@@ -1,6 +1,11 @@
 { 
   "replace": false,
   "values": [
+    "newwalls:sculk_stairs",
+    "newwalls:sculk_slab",
+    "newwalls:sculk_wall",
+    "newwalls:sculk_fence",
+    "newwalls:sculk_fence_gate",
     "newwalls:polished_granite_bricks",
     "newwalls:polished_diorite_bricks",
     "newwalls:polished_andesite_bricks",

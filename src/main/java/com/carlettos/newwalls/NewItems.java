@@ -82,6 +82,11 @@ public class NewItems {
     public static final BlockItem SMOOTH_BASALT_SLAB = fromBlock(NewBlocks.SMOOTH_BASALT_SLAB);
     public static final BlockItem SMOOTH_BASALT_STAIRS = fromBlock(NewBlocks.SMOOTH_BASALT_STAIRS);
     public static final BlockItem SMOOTH_BASALT_WALL = fromBlock(NewBlocks.SMOOTH_BASALT_WALL);
+    public static final BlockItem SCULK_STAIRS = fromBlock(NewBlocks.SCULK_STAIRS);
+    public static final BlockItem SCULK_SLAB = fromBlock(NewBlocks.SCULK_SLAB);
+    public static final BlockItem SCULK_WALL = fromBlock(NewBlocks.SCULK_WALL);
+    public static final BlockItem SCULK_FENCE = fromBlock(NewBlocks.SCULK_FENCE);
+    public static final BlockItem SCULK_FENCE_GATE = fromBlock(NewBlocks.SCULK_FENCE_GATE);
     
     public static final BlockItem fromBlock(Block block) {
         BlockItem item = new BlockItem(block, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS));

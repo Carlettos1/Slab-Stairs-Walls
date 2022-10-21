@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/B/",
+    "/B/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:echo_shard"
+    },
+    "B": {
+      "item": "minecraft:sculk"
+    }
+  },
+  "result": {
+    "item": "newwalls:sculk_fence_gate",
+    "count": 1
+  }
+}
