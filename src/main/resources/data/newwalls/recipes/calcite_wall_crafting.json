@@ -1,0 +1,32 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:calcite"
+    },
+    "1": {
+      "item": "minecraft:calcite"
+    },
+    "2": {
+      "item": "minecraft:calcite"
+    },
+    "3": {
+      "item": "minecraft:calcite"
+    },
+    "4": {
+      "item": "minecraft:calcite"
+    },
+    "5": {
+      "item": "minecraft:calcite"
+    }
+  },
+  "result": {
+    "item": "newwalls:calcite_wall",
+    "count": 6
+  }
+}

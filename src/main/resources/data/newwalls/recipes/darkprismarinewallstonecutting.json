@@ -1,0 +1,9 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:dark_prismarine"
+  },
+  "result": "newwalls:dark_prismarine_wall"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:calcite"
+  },
+  "result": "newwalls:calcite_wall"
+}

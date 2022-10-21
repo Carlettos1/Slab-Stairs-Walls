@@ -1,0 +1,9 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:smooth_sandstone"
+  },
+  "result": "newwalls:smooth_sandstone_wall"
+}

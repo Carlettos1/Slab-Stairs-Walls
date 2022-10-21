@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "quartz_brick_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:quartz_bricks"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:quartz_brick_slab_crafting",
+      "newwalls:quartz_brick_stairs_crafting",
+      "newwalls:quartz_brick_wall_crafting",
+      "newwalls:quartz_brick_slab_stonecutting",
+      "newwalls:quartz_brick_stairs_stonecutting",
+      "newwalls:quartz_brick_wall_stonecutting",
+      "newwalls:quartz_brick_fence_crafting"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "newwalls:blocks/polished_granite_bricks",
+    "particle": "newwalls:blocks/polished_granite_bricks"
+  }
+}

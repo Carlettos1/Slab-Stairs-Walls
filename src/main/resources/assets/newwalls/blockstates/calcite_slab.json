@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newwalls:block/calcite_slab"
+    },
+    "type=top": {
+      "model": "newwalls:block/calcite_slab_top"
+    },
+    "type=double": {
+      "model": "newwalls:block/calcite_slab_full"
+    }
+  }
+}

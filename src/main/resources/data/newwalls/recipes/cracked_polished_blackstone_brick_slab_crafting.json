@@ -1,0 +1,22 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cracked_polished_blackstone_bricks"
+    },
+    "1": {
+      "item": "minecraft:cracked_polished_blackstone_bricks"
+    },
+    "2": {
+      "item": "minecraft:cracked_polished_blackstone_bricks"
+    }
+  },
+  "result": {
+    "item": "newwalls:cracked_polished_blackstone_brick_slab",
+    "count": 6
+  }
+}

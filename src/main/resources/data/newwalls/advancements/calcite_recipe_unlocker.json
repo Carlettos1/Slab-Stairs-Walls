@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "calcite_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:calcite"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:calcite_slab_crafting",
+      "newwalls:calcite_stairs_crafting",
+      "newwalls:calcite_wall_crafting",
+      "newwalls:calcite_slab_stonecutting",
+      "newwalls:calcite_stairs_stonecutting",
+      "newwalls:calcite_wall_stonecutting"
+    ]
+  }
+}

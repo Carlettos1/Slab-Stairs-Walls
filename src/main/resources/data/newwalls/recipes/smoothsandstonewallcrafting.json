@@ -1,0 +1,32 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "1": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "2": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "3": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "4": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "5": {
+      "item": "minecraft:smooth_sandstone"
+    }
+  },
+  "result": {
+    "item": "newwalls:smooth_sandstone_wall",
+    "count": 6
+  }
+}

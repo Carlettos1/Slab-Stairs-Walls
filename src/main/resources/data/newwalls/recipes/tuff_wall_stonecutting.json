@@ -1,0 +1,9 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:tuff"
+  },
+  "result": "newwalls:tuff_wall"
+}

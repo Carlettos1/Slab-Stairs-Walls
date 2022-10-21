@@ -1,0 +1,9 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:quartz_stairs"
+  },
+  "result": "minecraft:quartz_slab"
+}

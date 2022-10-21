@@ -1,0 +1,11 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": [{
+    "item": "minecraft:tuff"
+  }, {
+    "item": "newwalls:tuff_stairs"
+  }],
+  "result": "newwalls:tuff_slab"
+}

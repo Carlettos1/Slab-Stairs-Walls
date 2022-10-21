@@ -1,0 +1,22 @@
+{
+  "group": "newslabs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "newwalls:polished_andesite_bricks"
+    },
+    "1": {
+      "item": "newwalls:polished_andesite_bricks"
+    },
+    "2": {
+      "item": "newwalls:polished_andesite_bricks"
+    }
+  },
+  "result": {
+    "item": "newwalls:polished_andesite_brick_slab",
+    "count": 6
+  }
+}

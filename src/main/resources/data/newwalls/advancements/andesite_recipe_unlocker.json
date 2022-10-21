@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "andesite_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:andesite"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:polishedandesitewallcrafting",
+      "newwalls:polishedandesitewallstonecutting",
+      "newwalls:polished_andesite_bricks_crafting",
+      "newwalls:polished_andesite_bricks_stonecutting",
+      "newwalls:polished_andesite_brick_slab_crafting",
+      "newwalls:polished_andesite_brick_slab_stonecutting",
+      "newwalls:polished_andesite_brick_stairs_crafting",
+      "newwalls:polished_andesite_brick_stairs_stonecutting",
+      "newwalls:polished_andesite_brick_wall_crafting",
+      "newwalls:polished_andesite_brick_wall_stonecutting",
+      "newwalls:polished_andesite_stairs_to_slabs",
+      "newwalls:andesite_stairs_to_slabs"
+    ]
+  }
+}

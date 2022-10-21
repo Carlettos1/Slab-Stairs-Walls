@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "block/polished_diorite",
+    "particle": "block/polished_diorite"
+  }
+}

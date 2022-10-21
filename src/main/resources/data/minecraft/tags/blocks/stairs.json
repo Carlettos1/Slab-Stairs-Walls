@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "newwalls:smooth_stone_stairs",
+    "newwalls:cut_sandstone_stairs",
+    "newwalls:cut_red_sandstone_stairs",
+    "newwalls:cracked_stone_brick_stairs",
+    "newwalls:polished_andesite_brick_stairs",
+    "newwalls:polished_diorite_brick_stairs",
+    "newwalls:polished_granite_brick_stairs",
+    "newwalls:cracked_nether_brick_stairs",
+    "newwalls:cracked_polished_blackstone_brick_stairs",
+    "newwalls:quartz_brick_stairs",
+    "newwalls:cracked_deepslate_brick_stairs",
+    "newwalls:cracked_deepslate_tile_stairs",
+    "newwalls:tuff_stairs",
+    "newwalls:calcite_stairs",
+    "newwalls:smooth_basalt_stairs"
+  ]
+}

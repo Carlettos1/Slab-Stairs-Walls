@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "cracked_stone_brick_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:cracked_stone_bricks"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:cracked_stone_brick_slab_crafting",
+      "newwalls:cracked_stone_brick_slab_stonecutting",
+      "newwalls:cracked_stone_brick_stairs_crafting",
+      "newwalls:cracked_stone_brick_stairs_stonecutting",
+      "newwalls:cracked_stone_brick_wall_crafting",
+      "newwalls:cracked_stone_brick_wall_stonecutting",
+      "newwalls:cracked_stone_brick_stairs_to_slabs"
+    ]
+  }
+}

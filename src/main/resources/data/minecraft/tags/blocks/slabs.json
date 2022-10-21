@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "newwalls:cracked_stone_brick_slab",
+    "newwalls:polished_andesite_brick_slab",
+    "newwalls:polished_diorite_brick_slab",
+    "newwalls:polished_granite_brick_slab",
+    "newwalls:cracked_nether_brick_slab",
+    "newwalls:cracked_polished_blackstone_brick_slab",
+    "newwalls:quartz_brick_slab",
+    "newwalls:cracked_deepslate_brick_slab",
+    "newwalls:cracked_deepslate_tile_slab",
+    "newwalls:tuff_slab",
+    "newwalls:calcite_slab",
+    "newwalls:smooth_basalt_slab"
+  ]
+}

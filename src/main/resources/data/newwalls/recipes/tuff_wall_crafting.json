@@ -1,0 +1,32 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:tuff"
+    },
+    "1": {
+      "item": "minecraft:tuff"
+    },
+    "2": {
+      "item": "minecraft:tuff"
+    },
+    "3": {
+      "item": "minecraft:tuff"
+    },
+    "4": {
+      "item": "minecraft:tuff"
+    },
+    "5": {
+      "item": "minecraft:tuff"
+    }
+  },
+  "result": {
+    "item": "newwalls:tuff_wall",
+    "count": 6
+  }
+}

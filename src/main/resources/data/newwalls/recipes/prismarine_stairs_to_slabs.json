@@ -1,0 +1,9 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:prismarine_stairs"
+  },
+  "result": "minecraft:prismarine_slab"
+}

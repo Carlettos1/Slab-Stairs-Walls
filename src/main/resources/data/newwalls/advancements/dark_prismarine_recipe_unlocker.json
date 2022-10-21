@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "dark_prismarine_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:dark_prismarine"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:darkprismarinewallcrafting",
+      "newwalls:darkprismarinewallstonecutting",
+      "newwalls:dark_prismarine_stairs_to_slabs"
+    ]
+  }
+}

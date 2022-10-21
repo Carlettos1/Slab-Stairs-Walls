@@ -1,0 +1,9 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "newwalls:smooth_stone_stairs"
+  },
+  "result": "minecraft:smooth_stone_slab"
+}

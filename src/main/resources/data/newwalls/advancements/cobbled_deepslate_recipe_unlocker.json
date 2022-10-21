@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "cobbled_deepslate_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:cobbled_deepslate"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:cobbled_deepslate_stairs_to_slabs",
+      "newwalls:polished_deepslate_stairs_to_slabs",
+      "newwalls:deepslate_brick_stairs_to_slabs",
+      "newwalls:deepslate_tile_stairs_to_slabs"
+    ]
+  }
+}

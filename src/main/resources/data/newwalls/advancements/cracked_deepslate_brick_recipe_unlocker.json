@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "cracked_deepslate_brick_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:cracked_deepslate_bricks"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:cracked_deepslate_brick_slab_crafting",
+      "newwalls:cracked_deepslate_brick_stairs_crafting",
+      "newwalls:cracked_deepslate_brick_wall_crafting",
+      "newwalls:cracked_deepslate_brick_slab_stonecutting",
+      "newwalls:cracked_deepslate_brick_stairs_stonecutting",
+      "newwalls:cracked_deepslate_brick_wall_stonecutting"
+    ]
+  }
+}

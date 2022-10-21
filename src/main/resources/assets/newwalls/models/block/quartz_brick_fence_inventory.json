@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "block/quartz_bricks",
+    "particle": "block/quartz_bricks"
+  }
+}

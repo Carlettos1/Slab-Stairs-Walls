@@ -1,0 +1,22 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cracked_deepslate_tiles"
+    },
+    "1": {
+      "item": "minecraft:cracked_deepslate_tiles"
+    },
+    "2": {
+      "item": "minecraft:cracked_deepslate_tiles"
+    }
+  },
+  "result": {
+    "item": "newwalls:cracked_deepslate_tile_slab",
+    "count": 6
+  }
+}

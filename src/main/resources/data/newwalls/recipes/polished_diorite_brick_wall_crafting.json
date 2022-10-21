@@ -1,0 +1,32 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "newwalls:polished_diorite_bricks"
+    },
+    "1": {
+      "item": "newwalls:polished_diorite_bricks"
+    },
+    "2": {
+      "item": "newwalls:polished_diorite_bricks"
+    },
+    "3": {
+      "item": "newwalls:polished_diorite_bricks"
+    },
+    "4": {
+      "item": "newwalls:polished_diorite_bricks"
+    },
+    "5": {
+      "item": "newwalls:polished_diorite_bricks"
+    }
+  },
+  "result": {
+    "item": "newwalls:polished_diorite_brick_wall",
+    "count": 6
+  }
+}

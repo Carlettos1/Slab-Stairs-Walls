@@ -1,0 +1,9 @@
+{
+  "group": "newwalls",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:cracked_stone_bricks"
+  },
+  "result": "newwalls:cracked_stone_brick_slab"
+}

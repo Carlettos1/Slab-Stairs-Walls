@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "purpur_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:purpur_block"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:purpurwallcrafting",
+      "newwalls:purpurwallstonecutting",
+      "newwalls:purpur_stairs_to_slabs"
+    ]
+  }
+}

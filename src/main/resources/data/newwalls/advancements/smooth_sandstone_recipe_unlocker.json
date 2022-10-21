@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "smooth_sandstone_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:smooth_sandstone"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:smoothsandstonewallcrafting",
+      "newwalls:smoothsandstonewallstonecutting",
+      "newwalls:smooth_sandstone_stairs_to_slabs"
+    ]
+  }
+}

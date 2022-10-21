@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "block/cut_red_sandstone",
+    "particle": "block/cut_red_sandstone"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "blackstone_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:blackstone"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:blackstone_stairs_to_slabs",
+      "newwalls:polished_blackstone_stairs_to_slabs",
+      "newwalls:polished_blackstone_brick_stairs_to_slabs"
+    ]
+  }
+}
