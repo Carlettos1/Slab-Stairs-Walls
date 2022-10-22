@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_side_tall",
   "textures": {
-    "wall": "block/prismarine_bricks",
-    "particle": "block/prismarine_bricks"
+    "wall": "minecraft:block/prismarine_bricks",
+    "particle": "minecraft:block/prismarine_bricks"
   }
 }

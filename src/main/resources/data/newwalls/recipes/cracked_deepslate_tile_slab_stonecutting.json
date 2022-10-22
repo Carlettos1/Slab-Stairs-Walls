@@ -1,11 +1,8 @@
 {
-  "group": "newwalls",
   "type": "minecraft:stonecutting",
   "count": 2,
-  "ingredient": [{
+  "ingredient": {
     "item": "minecraft:cracked_deepslate_tiles"
-  }, {
-    "item": "newwalls:cracked_deepslate_tile_stairs"
-  }],
+  },
   "result": "newwalls:cracked_deepslate_tile_slab"
 }

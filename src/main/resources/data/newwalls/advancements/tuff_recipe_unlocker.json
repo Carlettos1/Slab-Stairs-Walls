@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "tuff_recipe_unlocker": {
+    "minecraft_tuff_recipe_unlocker": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -14,12 +14,12 @@
   },
   "rewards": {
     "recipes": [
-      "newwalls:tuff_slab_crafting",
-      "newwalls:tuff_stairs_crafting",
-      "newwalls:tuff_wall_crafting",
-      "newwalls:tuff_slab_stonecutting",
-      "newwalls:tuff_stairs_stonecutting",
-      "newwalls:tuff_wall_stonecutting"
+      "newwalls:tuff_stairs_crafting.json",
+      "newwalls:tuff_stairs_stonecutting.json",
+      "newwalls:tuff_slab_crafting.json",
+      "newwalls:tuff_slab_stonecutting.json",
+      "newwalls:tuff_wall_crafting.json",
+      "newwalls:tuff_wall_stonecutting.json"
     ]
   }
 }

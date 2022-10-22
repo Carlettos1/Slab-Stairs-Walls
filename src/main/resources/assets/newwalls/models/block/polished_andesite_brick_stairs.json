@@ -1,8 +1,0 @@
-{
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "newwalls:blocks/polished_andesite_bricks",
-    "top": "newwalls:blocks/polished_andesite_bricks",
-    "side": "newwalls:blocks/polished_andesite_bricks"
-  }
-}

@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_post",
   "textures": {
-    "wall": "block/cracked_deepslate_tiles",
-    "particle": "block/cracked_deepslate_tiles"
+    "wall": "minecraft:block/cracked_deepslate_tiles",
+    "particle": "minecraft:block/cracked_deepslate_tiles"
   }
 }

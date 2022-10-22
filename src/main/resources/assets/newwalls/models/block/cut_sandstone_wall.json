@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_side",
   "textures": {
-    "wall": "block/cut_sandstone",
-    "particle": "block/cut_sandstone"
+    "wall": "minecraft:block/cut_sandstone",
+    "particle": "minecraft:block/cut_sandstone"
   }
 }

@@ -1,27 +1,11 @@
 {
-  "group": "newwalls",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012",
-    "345"
+    "000",
+    "000"
   ],
   "key": {
     "0": {
-      "item": "minecraft:cut_sandstone"
-    },
-    "1": {
-      "item": "minecraft:cut_sandstone"
-    },
-    "2": {
-      "item": "minecraft:cut_sandstone"
-    },
-    "3": {
-      "item": "minecraft:cut_sandstone"
-    },
-    "4": {
-      "item": "minecraft:cut_sandstone"
-    },
-    "5": {
       "item": "minecraft:cut_sandstone"
     }
   },

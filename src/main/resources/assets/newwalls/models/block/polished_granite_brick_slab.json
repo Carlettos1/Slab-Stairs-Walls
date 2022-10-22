@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "newwalls:blocks/polished_granite_bricks",
-    "top": "newwalls:blocks/polished_granite_bricks",
-    "side": "newwalls:blocks/polished_granite_bricks"
-  }
-}

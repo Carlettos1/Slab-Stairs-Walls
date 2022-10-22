@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_post",
   "textures": {
-    "wall": "block/cracked_polished_blackstone_bricks",
-    "particle": "block/cracked_polished_blackstone_bricks"
+    "wall": "minecraft:block/cracked_polished_blackstone_bricks",
+    "particle": "minecraft:block/cracked_polished_blackstone_bricks"
   }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "smooth_quartz_recipe_unlocker": {
+    "minecraft_smooth_quartz_recipe_unlocker": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -14,9 +14,8 @@
   },
   "rewards": {
     "recipes": [
-      "newwalls:smooth_quartz_wall_crafting",
-      "newwalls:smooth_quartz_wall_stonecutting",
-      "newwalls:smooth_quartz_stairs_to_slabs"
+      "newwalls:smooth_quartz_wall_crafting.json",
+      "newwalls:smooth_quartz_wall_stonecutting.json"
     ]
   }
 }

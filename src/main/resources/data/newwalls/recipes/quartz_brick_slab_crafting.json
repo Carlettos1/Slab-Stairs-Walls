@@ -1,17 +1,10 @@
 {
-  "group": "newwalls",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012"
+    "000"
   ],
   "key": {
     "0": {
-      "item": "minecraft:quartz_bricks"
-    },
-    "1": {
-      "item": "minecraft:quartz_bricks"
-    },
-    "2": {
       "item": "minecraft:quartz_bricks"
     }
   },

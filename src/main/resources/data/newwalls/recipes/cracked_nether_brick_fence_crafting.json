@@ -1,28 +1,15 @@
 {
-  "group": "newwalls",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012",
-    "345"
+    "b/b",
+    "b/b"
   ],
   "key": {
-    "0": {
+    "b": {
       "item": "minecraft:cracked_nether_bricks"
     },
-    "1": {
+    "/": {
       "item": "minecraft:nether_brick"
-    },
-    "2": {
-      "item": "minecraft:cracked_nether_bricks"
-    },
-    "3": {
-      "item": "minecraft:cracked_nether_bricks"
-    },
-    "4": {
-      "item": "minecraft:nether_brick"
-    },
-    "5": {
-      "item": "minecraft:cracked_nether_bricks"
     }
   },
   "result": {

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "smooth_stone_recipe_unlocker": {
+    "minecraft_smooth_stone_recipe_unlocker": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -14,11 +14,10 @@
   },
   "rewards": {
     "recipes": [
-      "newwalls:smooth_stone_stairs_crafting",
-      "newwalls:smooth_stone_stairs_stonecutting",
-      "newwalls:smooth_stone_wall_crafting",
-      "newwalls:smooth_stone_wall_stonecutting",
-      "newwalls:smooth_stone_stairs_to_slabs"
+      "newwalls:smooth_stone_stairs_crafting.json",
+      "newwalls:smooth_stone_stairs_stonecutting.json",
+      "newwalls:smooth_stone_wall_crafting.json",
+      "newwalls:smooth_stone_wall_stonecutting.json"
     ]
   }
 }

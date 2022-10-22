@@ -9,11 +9,11 @@
     "Carlettos"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/slab-stairs-walls",
+    "sources": "https://github.com/Carlettos1/Slab-Stairs-Walls"
   },
 
-  "license": "CC0-1.0",
+  "license": "GNU GPLv3",
   "icon": "assets/newwalls/icon.png",
 
   "environment": "*",

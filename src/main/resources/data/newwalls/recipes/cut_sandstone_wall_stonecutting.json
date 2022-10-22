@@ -1,14 +1,8 @@
 {
-  "group": "newwalls",
   "type": "minecraft:stonecutting",
   "count": 1,
-  "ingredient": [
-  	{
-      "item": "minecraft:cut_sandstone"
-    },
-    {
-      "item": "minecraft:sandstone"
-    }
-  ],
+  "ingredient": {
+    "item": "minecraft:cut_sandstone"
+  },
   "result": "newwalls:cut_sandstone_wall"
 }

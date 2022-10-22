@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_post",
   "textures": {
-    "wall": "block/tuff",
-    "particle": "block/tuff"
+    "wall": "minecraft:block/tuff",
+    "particle": "minecraft:block/tuff"
   }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_side",
   "textures": {
-    "wall": "block/smooth_stone",
-    "particle": "block/smooth_stone"
+    "wall": "minecraft:block/smooth_stone",
+    "particle": "minecraft:block/smooth_stone"
   }
 }

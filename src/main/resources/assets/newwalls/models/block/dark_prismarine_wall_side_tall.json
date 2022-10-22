@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_side_tall",
   "textures": {
-    "wall": "block/dark_prismarine",
-    "particle": "block/dark_prismarine"
+    "wall": "minecraft:block/dark_prismarine",
+    "particle": "minecraft:block/dark_prismarine"
   }
 }

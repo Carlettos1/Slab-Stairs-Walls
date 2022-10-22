@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_prismarine_bricks_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:prismarine_bricks"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:prismarine_brick_wall_crafting.json",
+      "newwalls:prismarine_brick_wall_stonecutting.json"
+    ]
+  }
+}

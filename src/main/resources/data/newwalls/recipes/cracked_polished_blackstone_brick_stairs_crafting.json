@@ -1,28 +1,12 @@
 {
-  "group": "newwalls",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0  ",
-    "34 ",
-    "678"
+    "b  ",
+    "bb ",
+    "bbb"
   ],
   "key": {
-    "0": {
-      "item": "minecraft:cracked_polished_blackstone_bricks"
-    },
-    "3": {
-      "item": "minecraft:cracked_polished_blackstone_bricks"
-    },
-    "4": {
-      "item": "minecraft:cracked_polished_blackstone_bricks"
-    },
-    "6": {
-      "item": "minecraft:cracked_polished_blackstone_bricks"
-    },
-    "7": {
-      "item": "minecraft:cracked_polished_blackstone_bricks"
-    },
-    "8": {
+    "b": {
       "item": "minecraft:cracked_polished_blackstone_bricks"
     }
   },

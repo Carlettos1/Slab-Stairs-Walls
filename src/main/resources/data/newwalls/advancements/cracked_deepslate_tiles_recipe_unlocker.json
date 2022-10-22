@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_cracked_deepslate_tiles_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:cracked_deepslate_tiles"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:cracked_deepslate_tile_stairs_crafting.json",
+      "newwalls:cracked_deepslate_tile_stairs_stonecutting.json",
+      "newwalls:cracked_deepslate_tile_slab_crafting.json",
+      "newwalls:cracked_deepslate_tile_slab_stonecutting.json",
+      "newwalls:cracked_deepslate_tile_wall_crafting.json",
+      "newwalls:cracked_deepslate_tile_wall_stonecutting.json"
+    ]
+  }
+}

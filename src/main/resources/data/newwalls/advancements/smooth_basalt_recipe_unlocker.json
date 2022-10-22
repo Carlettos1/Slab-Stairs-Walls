@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "smooth_basalt_recipe_unlocker": {
+    "minecraft_smooth_basalt_recipe_unlocker": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -14,12 +14,12 @@
   },
   "rewards": {
     "recipes": [
-      "newwalls:smooth_basalt_slab_crafting",
-      "newwalls:smooth_basalt_stairs_crafting",
-      "newwalls:smooth_basalt_wall_crafting",
-      "newwalls:smooth_basalt_slab_stonecutting",
-      "newwalls:smooth_basalt_stairs_stonecutting",
-      "newwalls:smooth_basalt_wall_stonecutting"
+      "newwalls:smooth_basalt_stairs_crafting.json",
+      "newwalls:smooth_basalt_stairs_stonecutting.json",
+      "newwalls:smooth_basalt_slab_crafting.json",
+      "newwalls:smooth_basalt_slab_stonecutting.json",
+      "newwalls:smooth_basalt_wall_crafting.json",
+      "newwalls:smooth_basalt_wall_stonecutting.json"
     ]
   }
 }

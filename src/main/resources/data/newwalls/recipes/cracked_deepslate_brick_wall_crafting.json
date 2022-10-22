@@ -1,27 +1,11 @@
 {
-  "group": "newwalls",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012",
-    "345"
+    "000",
+    "000"
   ],
   "key": {
     "0": {
-      "item": "minecraft:cracked_deepslate_bricks"
-    },
-    "1": {
-      "item": "minecraft:cracked_deepslate_bricks"
-    },
-    "2": {
-      "item": "minecraft:cracked_deepslate_bricks"
-    },
-    "3": {
-      "item": "minecraft:cracked_deepslate_bricks"
-    },
-    "4": {
-      "item": "minecraft:cracked_deepslate_bricks"
-    },
-    "5": {
       "item": "minecraft:cracked_deepslate_bricks"
     }
   },

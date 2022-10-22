@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "stone_recipe_unlocker": {
+    "minecraft_stone_recipe_unlocker": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -14,9 +14,8 @@
   },
   "rewards": {
     "recipes": [
-      "newwalls:stone_wall_crafting",
-      "newwalls:stone_wall_stonecutting",
-      "newwalls:stone_stairs_to_slabs"
+      "newwalls:stone_wall_crafting.json",
+      "newwalls:stone_wall_stonecutting.json"
     ]
   }
 }

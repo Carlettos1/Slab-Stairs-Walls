@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab_top",
-  "textures": {
-    "bottom": "newwalls:blocks/polished_diorite_bricks",
-    "top": "newwalls:blocks/polished_diorite_bricks",
-    "side": "newwalls:blocks/polished_diorite_bricks"
-  }
-}

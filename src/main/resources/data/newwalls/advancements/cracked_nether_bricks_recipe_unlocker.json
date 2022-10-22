@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_cracked_nether_bricks_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:cracked_nether_bricks"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:cracked_nether_brick_stairs_crafting.json",
+      "newwalls:cracked_nether_brick_stairs_stonecutting.json",
+      "newwalls:cracked_nether_brick_slab_crafting.json",
+      "newwalls:cracked_nether_brick_slab_stonecutting.json",
+      "newwalls:cracked_nether_brick_wall_crafting.json",
+      "newwalls:cracked_nether_brick_wall_stonecutting.json",
+      "newwalls:cracked_nether_brick_fence_crafting.json",
+      "newwalls:cracked_nether_brick_fence_stonecutting.json",
+      "newwalls:cracked_nether_brick_fence_gate_crafting.json",
+      "newwalls:cracked_nether_brick_fence_gate_stonecutting.json"
+    ]
+  }
+}

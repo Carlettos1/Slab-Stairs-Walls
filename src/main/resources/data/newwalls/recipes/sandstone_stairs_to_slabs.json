@@ -1,9 +1,0 @@
-{
-  "group": "newwalls",
-  "type": "minecraft:stonecutting",
-  "count": 2,
-  "ingredient": {
-    "item": "minecraft:sandstone_stairs"
-  },
-  "result": "minecraft:sandstone_slab"
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "block/wall_inventory",
-  "textures": {
-    "wall": "newwalls:blocks/polished_diorite_bricks",
-    "particle": "newwalls:blocks/polished_diorite_bricks"
-  }
-}

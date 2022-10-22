@@ -1,17 +1,10 @@
 {
-  "group": "newwalls",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012"
+    "000"
   ],
   "key": {
     "0": {
-      "item": "minecraft:calcite"
-    },
-    "1": {
-      "item": "minecraft:calcite"
-    },
-    "2": {
       "item": "minecraft:calcite"
     }
   },

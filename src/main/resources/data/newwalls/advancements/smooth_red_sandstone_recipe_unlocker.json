@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "smooth_red_sandstone_recipe_unlocker": {
+    "minecraft_smooth_red_sandstone_recipe_unlocker": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -14,9 +14,8 @@
   },
   "rewards": {
     "recipes": [
-      "newwalls:smoothredsandstonewallcrafting",
-      "newwalls:smoothredsandstonewallstonecutting",
-      "newwalls:smooth_red_sandstone_stairs_to_slabs"
+      "newwalls:smooth_red_sandstone_wall_crafting.json",
+      "newwalls:smooth_red_sandstone_wall_stonecutting.json"
     ]
   }
 }

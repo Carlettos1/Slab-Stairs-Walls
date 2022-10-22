@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_andesite"
+    }
+  },
+  "result": {
+    "item": "newwalls:polished_andesite_wall",
+    "count": 6
+  }
+}

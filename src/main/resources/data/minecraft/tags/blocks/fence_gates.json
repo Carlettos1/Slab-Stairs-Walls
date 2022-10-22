@@ -2,8 +2,8 @@
   "replace": false,
   "values": [
     "newwalls:cracked_nether_brick_fence_gate",
-    "newwalls:red_nether_brick_fence_gate",
     "newwalls:nether_brick_fence_gate",
+    "newwalls:red_nether_brick_fence_gate",
     "newwalls:quartz_brick_fence_gate",
     "newwalls:sculk_fence_gate"
   ]
