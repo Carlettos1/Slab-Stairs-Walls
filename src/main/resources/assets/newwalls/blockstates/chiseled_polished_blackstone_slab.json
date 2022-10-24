@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newwalls:block/chiseled_polished_blackstone_slab"
+    },
+    "type=top": {
+      "model": "newwalls:block/chiseled_polished_blackstone_slab_top"
+    },
+    "type=double": {
+      "model": "newwalls:block/chiseled_polished_blackstone_slab_full"
+    }
+  }
+}

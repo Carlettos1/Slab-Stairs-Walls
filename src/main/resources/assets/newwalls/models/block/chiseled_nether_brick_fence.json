@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "minecraft:block/chiseled_nether_bricks",
+    "particle": "minecraft:block/chiseled_nether_bricks"
+  }
+}

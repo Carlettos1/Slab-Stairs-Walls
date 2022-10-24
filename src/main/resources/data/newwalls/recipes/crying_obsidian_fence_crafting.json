@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b/b",
+    "b/b"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "/": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "newwalls:crying_obsidian_fence",
+    "count": 6
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "minecraft:block/obsidian",
+    "particle": "minecraft:block/obsidian"
+  }
+}

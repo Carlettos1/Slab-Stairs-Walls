@@ -15,7 +15,11 @@
   "rewards": {
     "recipes": [
       "newwalls:quartz_block_wall_crafting.json",
-      "newwalls:quartz_block_wall_stonecutting.json"
+      "newwalls:quartz_block_wall_stonecutting.json",
+      "newwalls:quartz_block_fence_crafting.json",
+      "newwalls:quartz_block_fence_stonecutting.json",
+      "newwalls:quartz_block_fence_gate_crafting.json",
+      "newwalls:quartz_block_fence_gate_stonecutting.json"
     ]
   }
 }

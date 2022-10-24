@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "minecraft:block/chiseled_stone_bricks",
+    "particle": "minecraft:block/chiseled_stone_bricks"
+  }
+}

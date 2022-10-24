@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "minecraft:block/blue_ice",
+    "particle": "minecraft:block/blue_ice"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_packed_ice_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:packed_ice"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:packed_ice_stairs_crafting.json",
+      "newwalls:packed_ice_stairs_stonecutting.json",
+      "newwalls:packed_ice_slab_crafting.json",
+      "newwalls:packed_ice_slab_stonecutting.json",
+      "newwalls:packed_ice_wall_crafting.json",
+      "newwalls:packed_ice_wall_stonecutting.json",
+      "newwalls:packed_ice_fence_crafting.json",
+      "newwalls:packed_ice_fence_stonecutting.json",
+      "newwalls:packed_ice_fence_gate_crafting.json",
+      "newwalls:packed_ice_fence_gate_stonecutting.json"
+    ]
+  }
+}

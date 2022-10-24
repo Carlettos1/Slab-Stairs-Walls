@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "minecraft:block/crying_obsidian",
+    "particle": "minecraft:block/crying_obsidian"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_green_wool_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:green_wool"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:green_wool_stairs_crafting.json",
+      "newwalls:green_wool_stairs_stonecutting.json",
+      "newwalls:green_wool_slab_crafting.json",
+      "newwalls:green_wool_slab_stonecutting.json",
+      "newwalls:green_wool_wall_crafting.json",
+      "newwalls:green_wool_wall_stonecutting.json"
+    ]
+  }
+}

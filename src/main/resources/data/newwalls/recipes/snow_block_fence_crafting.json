@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b/b",
+    "b/b"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:snow_block"
+    },
+    "/": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "newwalls:snow_block_fence",
+    "count": 6
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "newwalls:snow_block_stairs",
+    "newwalls:snow_block_slab",
+    "newwalls:snow_block_wall",
+    "newwalls:snow_block_fence",
+    "newwalls:snow_block_fence_gate"
+  ]
+}

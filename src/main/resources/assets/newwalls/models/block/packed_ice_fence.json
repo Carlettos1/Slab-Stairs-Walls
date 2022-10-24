@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "minecraft:block/packed_ice",
+    "particle": "minecraft:block/packed_ice"
+  }
+}

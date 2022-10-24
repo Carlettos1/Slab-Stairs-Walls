@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_lime_concrete_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:lime_concrete"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:lime_concrete_stairs_crafting.json",
+      "newwalls:lime_concrete_stairs_stonecutting.json",
+      "newwalls:lime_concrete_slab_crafting.json",
+      "newwalls:lime_concrete_slab_stonecutting.json",
+      "newwalls:lime_concrete_wall_crafting.json",
+      "newwalls:lime_concrete_wall_stonecutting.json"
+    ]
+  }
+}

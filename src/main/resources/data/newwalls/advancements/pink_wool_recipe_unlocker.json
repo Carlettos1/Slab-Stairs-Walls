@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_pink_wool_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:pink_wool"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:pink_wool_stairs_crafting.json",
+      "newwalls:pink_wool_stairs_stonecutting.json",
+      "newwalls:pink_wool_slab_crafting.json",
+      "newwalls:pink_wool_slab_stonecutting.json",
+      "newwalls:pink_wool_wall_crafting.json",
+      "newwalls:pink_wool_wall_stonecutting.json"
+    ]
+  }
+}

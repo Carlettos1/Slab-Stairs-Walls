@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:green_concrete"
+    }
+  },
+  "result": {
+    "item": "newwalls:green_concrete_wall",
+    "count": 6
+  }
+}

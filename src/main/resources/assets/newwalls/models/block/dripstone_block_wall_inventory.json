@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "minecraft:block/dripstone_block",
+    "particle": "minecraft:block/dripstone_block"
+  }
+}

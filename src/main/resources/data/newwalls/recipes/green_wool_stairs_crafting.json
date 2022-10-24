@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b  ",
+    "bb ",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "result": {
+    "item": "newwalls:green_wool_stairs",
+    "count": 4
+  }
+}

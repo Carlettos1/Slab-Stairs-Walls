@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "minecraft:block/chiseled_deepslate",
+    "particle": "minecraft:block/chiseled_deepslate"
+  }
+}

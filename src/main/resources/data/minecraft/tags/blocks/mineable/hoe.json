@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "newwalls:nether_wart_block_stairs",
+    "newwalls:nether_wart_block_slab",
+    "newwalls:nether_wart_block_wall",
+    "newwalls:warped_wart_block_stairs",
+    "newwalls:warped_wart_block_slab",
+    "newwalls:warped_wart_block_wall",
+    "newwalls:sculk_stairs",
+    "newwalls:sculk_slab",
+    "newwalls:sculk_wall",
+    "newwalls:sculk_fence",
+    "newwalls:sculk_fence_gate"
+  ]
+}

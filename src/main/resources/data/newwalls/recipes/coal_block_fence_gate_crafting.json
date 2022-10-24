@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/B/",
+    "/B/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:coal"
+    },
+    "B": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "newwalls:coal_block_fence_gate",
+    "count": 1
+  }
+}

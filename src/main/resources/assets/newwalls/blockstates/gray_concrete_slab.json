@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newwalls:block/gray_concrete_slab"
+    },
+    "type=top": {
+      "model": "newwalls:block/gray_concrete_slab_top"
+    },
+    "type=double": {
+      "model": "newwalls:block/gray_concrete_slab_full"
+    }
+  }
+}

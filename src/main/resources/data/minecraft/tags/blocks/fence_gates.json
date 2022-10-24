@@ -5,6 +5,15 @@
     "newwalls:nether_brick_fence_gate",
     "newwalls:red_nether_brick_fence_gate",
     "newwalls:quartz_brick_fence_gate",
-    "newwalls:sculk_fence_gate"
+    "newwalls:sculk_fence_gate",
+    "newwalls:coal_block_fence_gate",
+    "newwalls:obsidian_fence_gate",
+    "newwalls:snow_block_fence_gate",
+    "newwalls:chiseled_nether_brick_fence_gate",
+    "newwalls:chiseled_quartz_block_fence_gate",
+    "newwalls:quartz_block_fence_gate",
+    "newwalls:crying_obsidian_fence_gate",
+    "newwalls:blue_ice_fence_gate",
+    "newwalls:packed_ice_fence_gate"
   ]
 }

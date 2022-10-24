@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_chiseled_sandstone_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:chiseled_sandstone"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:chiseled_sandstone_stairs_crafting.json",
+      "newwalls:chiseled_sandstone_stairs_stonecutting.json",
+      "newwalls:chiseled_sandstone_slab_crafting.json",
+      "newwalls:chiseled_sandstone_slab_stonecutting.json",
+      "newwalls:chiseled_sandstone_wall_crafting.json",
+      "newwalls:chiseled_sandstone_wall_stonecutting.json"
+    ]
+  }
+}

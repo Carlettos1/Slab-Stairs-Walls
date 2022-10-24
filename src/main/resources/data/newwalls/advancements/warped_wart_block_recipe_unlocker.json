@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_warped_wart_block_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:warped_wart_block"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:warped_wart_block_stairs_crafting.json",
+      "newwalls:warped_wart_block_stairs_stonecutting.json",
+      "newwalls:warped_wart_block_slab_crafting.json",
+      "newwalls:warped_wart_block_slab_stonecutting.json",
+      "newwalls:warped_wart_block_wall_crafting.json",
+      "newwalls:warped_wart_block_wall_stonecutting.json"
+    ]
+  }
+}

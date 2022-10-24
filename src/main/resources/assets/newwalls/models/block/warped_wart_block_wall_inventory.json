@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "minecraft:block/warped_wart_block",
+    "particle": "minecraft:block/warped_wart_block"
+  }
+}

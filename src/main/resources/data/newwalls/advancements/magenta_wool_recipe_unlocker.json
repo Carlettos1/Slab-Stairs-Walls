@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_magenta_wool_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:magenta_wool"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:magenta_wool_stairs_crafting.json",
+      "newwalls:magenta_wool_stairs_stonecutting.json",
+      "newwalls:magenta_wool_slab_crafting.json",
+      "newwalls:magenta_wool_slab_stonecutting.json",
+      "newwalls:magenta_wool_wall_crafting.json",
+      "newwalls:magenta_wool_wall_stonecutting.json"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newwalls:block/blue_wool_slab"
+    },
+    "type=top": {
+      "model": "newwalls:block/blue_wool_slab_top"
+    },
+    "type=double": {
+      "model": "newwalls:block/blue_wool_slab_full"
+    }
+  }
+}

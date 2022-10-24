@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_gray_wool_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:gray_wool"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:gray_wool_stairs_crafting.json",
+      "newwalls:gray_wool_stairs_stonecutting.json",
+      "newwalls:gray_wool_slab_crafting.json",
+      "newwalls:gray_wool_slab_stonecutting.json",
+      "newwalls:gray_wool_wall_crafting.json",
+      "newwalls:gray_wool_wall_stonecutting.json"
+    ]
+  }
+}

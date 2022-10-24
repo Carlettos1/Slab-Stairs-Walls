@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newwalls:block/crying_obsidian_slab"
+    },
+    "type=top": {
+      "model": "newwalls:block/crying_obsidian_slab_top"
+    },
+    "type=double": {
+      "model": "newwalls:block/crying_obsidian_slab_full"
+    }
+  }
+}

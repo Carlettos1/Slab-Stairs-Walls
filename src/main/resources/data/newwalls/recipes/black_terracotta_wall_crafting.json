@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_terracotta"
+    }
+  },
+  "result": {
+    "item": "newwalls:black_terracotta_wall",
+    "count": 6
+  }
+}

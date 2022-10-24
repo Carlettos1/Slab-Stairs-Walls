@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b  ",
+    "bb ",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "newwalls:packed_ice_stairs",
+    "count": 4
+  }
+}

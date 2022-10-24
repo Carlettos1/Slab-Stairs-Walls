@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_packed_mud_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:packed_mud"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:packed_mud_stairs_crafting.json",
+      "newwalls:packed_mud_stairs_stonecutting.json",
+      "newwalls:packed_mud_slab_crafting.json",
+      "newwalls:packed_mud_slab_stonecutting.json",
+      "newwalls:packed_mud_wall_crafting.json",
+      "newwalls:packed_mud_wall_stonecutting.json"
+    ]
+  }
+}

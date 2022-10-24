@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newwalls:block/chiseled_sandstone_slab"
+    },
+    "type=top": {
+      "model": "newwalls:block/chiseled_sandstone_slab_top"
+    },
+    "type=double": {
+      "model": "newwalls:block/chiseled_sandstone_slab_full"
+    }
+  }
+}

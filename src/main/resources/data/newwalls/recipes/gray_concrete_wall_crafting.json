@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "result": {
+    "item": "newwalls:gray_concrete_wall",
+    "count": 6
+  }
+}

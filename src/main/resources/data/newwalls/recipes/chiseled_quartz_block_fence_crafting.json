@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b/b",
+    "b/b"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:chiseled_quartz_block"
+    },
+    "/": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "newwalls:chiseled_quartz_block_fence",
+    "count": 6
+  }
+}

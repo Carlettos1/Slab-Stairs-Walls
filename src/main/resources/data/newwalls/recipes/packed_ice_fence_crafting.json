@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b/b",
+    "b/b"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:packed_ice"
+    },
+    "/": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "newwalls:packed_ice_fence",
+    "count": 6
+  }
+}

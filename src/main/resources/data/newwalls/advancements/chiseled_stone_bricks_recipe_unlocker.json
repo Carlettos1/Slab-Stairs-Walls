@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_chiseled_stone_bricks_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:chiseled_stone_bricks"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:chiseled_stone_brick_stairs_crafting.json",
+      "newwalls:chiseled_stone_brick_stairs_stonecutting.json",
+      "newwalls:chiseled_stone_brick_slab_crafting.json",
+      "newwalls:chiseled_stone_brick_slab_stonecutting.json",
+      "newwalls:chiseled_stone_brick_wall_crafting.json",
+      "newwalls:chiseled_stone_brick_wall_stonecutting.json"
+    ]
+  }
+}

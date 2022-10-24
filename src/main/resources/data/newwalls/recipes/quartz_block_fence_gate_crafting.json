@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/B/",
+    "/B/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:quartz"
+    },
+    "B": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "result": {
+    "item": "newwalls:quartz_block_fence_gate",
+    "count": 1
+  }
+}

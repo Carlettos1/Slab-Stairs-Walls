@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b/b",
+    "b/b"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:chiseled_nether_bricks"
+    },
+    "/": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "newwalls:chiseled_nether_brick_fence",
+    "count": 6
+  }
+}

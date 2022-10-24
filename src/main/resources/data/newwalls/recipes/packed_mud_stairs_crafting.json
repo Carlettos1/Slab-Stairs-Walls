@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b  ",
+    "bb ",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:packed_mud"
+    }
+  },
+  "result": {
+    "item": "newwalls:packed_mud_stairs",
+    "count": 4
+  }
+}

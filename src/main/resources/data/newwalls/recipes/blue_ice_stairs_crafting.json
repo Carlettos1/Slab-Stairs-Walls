@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b  ",
+    "bb ",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "item": "newwalls:blue_ice_stairs",
+    "count": 4
+  }
+}

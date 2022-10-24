@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "minecraft_brown_concrete_recipe_unlocker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:brown_concrete"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "newwalls:brown_concrete_stairs_crafting.json",
+      "newwalls:brown_concrete_stairs_stonecutting.json",
+      "newwalls:brown_concrete_slab_crafting.json",
+      "newwalls:brown_concrete_slab_stonecutting.json",
+      "newwalls:brown_concrete_wall_crafting.json",
+      "newwalls:brown_concrete_wall_stonecutting.json"
+    ]
+  }
+}

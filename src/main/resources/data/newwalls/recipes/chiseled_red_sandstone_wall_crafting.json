@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chiseled_red_sandstone"
+    }
+  },
+  "result": {
+    "item": "newwalls:chiseled_red_sandstone_wall",
+    "count": 6
+  }
+}

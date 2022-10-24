@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:snow_block"
+    }
+  },
+  "result": {
+    "item": "newwalls:snow_block_wall",
+    "count": 6
+  }
+}

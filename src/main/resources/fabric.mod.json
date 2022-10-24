@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "newwalls",
-  "version": "1.0.0",
+  "version": "1.1.0",
 
   "name": "Slab, Stairs and Walls",
   "description": "Adds Slabs, Stairs and Walls for some minecraft blocks",
