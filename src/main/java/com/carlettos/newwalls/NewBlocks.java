@@ -13,9 +13,11 @@ import net.minecraft.block.FenceGateBlock;
 import net.minecraft.block.SlabBlock;
 import net.minecraft.block.StairsBlock;
 import net.minecraft.block.WallBlock;
+import net.minecraft.block.WoodType;
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.Pair;
-import net.minecraft.util.registry.Registry;
 
 public class NewBlocks {
     private static final LinkedList<Pair<Block, String>> BLOCKS = new LinkedList<>();
@@ -317,13 +319,13 @@ public class NewBlocks {
     }
     
     public static final FenceGateBlock createFenceGate(Block parent) {
-        FenceGateBlock fenceGate = new FenceGateBlock(Settings.copy(parent));
+        FenceGateBlock fenceGate = new FenceGateBlock(Settings.copy(parent), WoodType.OAK);
         common(parent, fenceGate, "fence_gate");
         return fenceGate;
     }
     
     public static final void common(Block parent, Block new_, String type) {
-        var registryKey = Registry.BLOCK.getKey(parent);
+        var registryKey = Registries.BLOCK.getKey(parent);
         String parentName = null;
         if (registryKey.isPresent()) {
              parentName = registryKey.get().getValue().getPath();
@@ -348,6 +350,6 @@ public class NewBlocks {
     }
     
     public static final void register() {
-        BLOCKS.forEach(par -> Registry.register(Registry.BLOCK, new Identifier(SlabStairsWalls.MOD_ID, par.getRight()), par.getLeft()));
+        BLOCKS.forEach(par -> Registry.register(Registries.BLOCK, new Identifier(SlabStairsWalls.MOD_ID, par.getRight()), par.getLeft()));
     }
 }
